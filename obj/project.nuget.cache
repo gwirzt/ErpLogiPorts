@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YbHH7seLoXDBz4HG8RVEK3KDd6NaIIjJSEiSBYrTBefsXyvUyv4prfUwZCvVRX6/0mAXWL7z2Fxx6Ujc/PrZsQ==",
+  "success": true,
+  "projectFilePath": "D:\\Google Drive\\ProgramacionDotNet\\ErpLogiPorts\\ErpLogiPorts\\ErpLogiPorts.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gwirz\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
